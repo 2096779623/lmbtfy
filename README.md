@@ -1,6 +1,6 @@
 <p align="center">
 <a href="http://tool.mkblog.cn/lmbtfy/" target="_blank">
-<img src="https://raw.fastgit.org/2096779623/lmbtfy/master/imga.png" alt="让我帮你DuckDuckGo">
+<img src="https://user-images.githubusercontent.com/16880885/85271234-1998af00-b4ad-11ea-8fd9-2c1cabf62ea3.png" alt="让我帮你百度一下">
 </a>
 </p>
 
@@ -21,7 +21,7 @@
 </a>
 </p>
 
-让我帮你duckduckgo - 优化版
+让我帮你duckduckgo一下 - 优化版
 
 原始版本来自 bangbang http://lmbtfy.cn/ ，本项目在原作的基础上进行了重制，搜索引擎变更为duckduckgo，并适配了移动端
 
