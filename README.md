@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<h3 align="center"> 「Let Me Baidu That For You」</h3>
+<h3 align="center"> 「Let Me DuckDuckGo That For You」</h3>
 
 <p align="center">
 <a href="https://github.com/mengkunsoft/lmbtfy/stargazers" target="_blank">
@@ -21,9 +21,9 @@
 </a>
 </p>
 
-让我帮你百度一下 - 优化版
+让我帮你duckduckgo一下 - 优化版
 
-原始版本来自 bangbang http://lmbtfy.cn/ ，本项目在原作的基础上进行了重制，风格变更为新版百度 UI，并适配了移动端
+原始版本来自 bangbang http://lmbtfy.cn/ ，本项目在原作的基础上进行了重制，搜索引擎变更为duckduckgo，并适配了移动端
 
 交互效果参考了 不会百度么？( http://buhuibaidu.me/ )
 
