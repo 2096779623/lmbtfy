@@ -1,6 +1,6 @@
 <p align="center">
 <a href="http://tool.mkblog.cn/lmbtfy/" target="_blank">
-<img src="https://user-images.githubusercontent.com/16880885/85271234-1998af00-b4ad-11ea-8fd9-2c1cabf62ea3.png" alt="让我帮你百度一下">
+<img src="https://raw.fastgit.org/2096779623/lmbtfy/master/imga.png" alt="让我帮你百度一下">
 </a>
 </p>
 
