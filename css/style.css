@@ -68,7 +68,7 @@ html, body {
     border-color: #9195a3;
 }
 .search-form-group input:focus {
-    border-color: #4e6ef2;
+    border-color: #DE5833;
 }
 
 .search-form-group button {
@@ -77,7 +77,7 @@ html, body {
     height: 44px;
     line-height: 45px;
     padding: 0;
-    background: #4e6ef2;
+    background:  #DE5833;
     border-radius: 0 10px 10px 0;
     font-size: 17px;
     color: #fff;
@@ -89,27 +89,27 @@ html, body {
     z-index: 1;
 }
 .search-form-group button:active {
-    background-color: #4662d9;
+    background-color: #DE5833;
 }
 .search-form-group button:hover {
-    background-color: #4662d9;
+    background-color: #DE5833;
 }
 
 .search-header {
     position: absolute;
-    bottom: 60px;
+    bottom: 100px;
     width: 100%;
 }
 
 .search-header h2 {
     font-size: 24px;
-    font-weight: 900;
+    font-weight: 1000;
 }
 
 .search-header img {
     display: inline-block;
     width: 300px;
-    margin: 0 -5px -16px;
+    margin: 0 -5px -20px;
 }
 
 /* 功能区 */
@@ -154,8 +154,8 @@ html, body {
     word-break: break-all;
 }
 #output textarea:focus {
-    border-color: #4285f4;
-    box-shadow: 0 0 2px #4285f4;
+    border-color:  #DE5833;
+    box-shadow: 0 0 2px #DE5833;
 }
 
 #output .tool-btns {
@@ -167,17 +167,17 @@ html, body {
     outline: none;
     cursor: pointer;
     color: #fff;
-    background: #3f89ec;
+    background: #DE5833;
     border: none;
     margin-left: 8px;
     padding: 6px 14px;
     border-radius: 3px;
 }
 #output button:hover {
-    background: #4490f7;
+    background: #DE5833;
 }
 #output button:focus {
-    background: #3a84e8;
+    background: #DE5833;
 }
 
 
@@ -271,15 +271,15 @@ html, body {
 
 
 /* 响应式优化 */
-@media screen and (max-width: 650px) {  
+@media screen and (max-width: 200px) {  
     #search {
         margin: 0 10px;
         height: auto;
-        min-height: 200px;
+        min-height: 100px;
     }
     
     .search-header img {
-        width: 150px;
+        width: 100px;
         margin: 0 -16px -12px;
     }
     
@@ -289,13 +289,13 @@ html, body {
     }
     
     .search-form-input {
-        right: 81px;
+        right: 11px;
     }
     
     .search-form-input input {
         border: none;
         border-radius: 0;
-        padding: 12px;
+        padding: 10px;
     }
     
     .search-form-group button {
