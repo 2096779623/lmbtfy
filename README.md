@@ -35,7 +35,9 @@
 [https://duckduckgo-search.vercel.app](https://duckduckgo-search.vercel.app)
 
 
+### 使用教程
 
+<img src="https://github.2096779623.workers.dev/2096779623/lmbtfy/raw/master/img/ddg.gif"></img>
 
 
 ### 相关项目
