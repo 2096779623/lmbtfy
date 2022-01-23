@@ -30,7 +30,7 @@
 ### 在线演示
 -----
 
-[http://tool.mkblog.cn/lmbtfy/](http://tool.mkblog.cn/lmbtfy/)
+[https://duckduckgo-search.vercel.app](https://duckduckgo-search.vercel.app)
 
 
 ### 相关项目
