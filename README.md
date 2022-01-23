@@ -33,6 +33,9 @@
 [https://duckduckgo-search.vercel.app](https://duckduckgo-search.vercel.app)
 
 
+**~~适配移动端~~**
+
+
 ### 相关项目
 -----
 
