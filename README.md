@@ -1,7 +1,7 @@
 <p align="center">
 <a href="http://tool.mkblog.cn/lmbtfy/" target="_blank">
 <img src="https://raw.githubusercontent.com/2096779623/lmbtfy/master/imga.png" alt="让我帮你DuckDuckGo">
-![](https://socialify.git.ci/2096779623/lmbtfy/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.2096779623.workers.dev%2F2096779623%2Flmbtfy%2Fraw%2Fmaster%2Fimg%2Fduckduckgo_logo.svg&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![] (https://socialify.git.ci/2096779623/lmbtfy/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.2096779623.workers.dev%2F2096779623%2Flmbtfy%2Fraw%2Fmaster%2Fimg%2Fduckduckgo_logo.svg&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 </a>
 </p>
 
