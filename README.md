@@ -21,9 +21,9 @@
 </a>
 </p>
 
-让我帮你duckduckgo - 优化版
+让我帮你duckduckgo
 
-原始版本来自 bangbang http://lmbtfy.cn/ ，本项目在原作的基础上进行了重制，搜索引擎变更为duckduckgo，并适配了移动端
+原始版本来自 https://github.com/mengkunsoft/lmbtfy ，本项目在原作的基础上进行了重制，搜索引擎变更为duckduckgo，并**~~适配了移动端~~**
 
 交互效果参考了 不会百度么？( http://buhuibaidu.me/ )
 
@@ -33,7 +33,7 @@
 [https://duckduckgo-search.vercel.app](https://duckduckgo-search.vercel.app)
 
 
-**~~适配移动端~~**
+
 
 
 ### 相关项目
@@ -43,6 +43,7 @@
 - [谷歌版] Let Me Google That For You https://github.com/xb2016/lmgtfy
 - [谷歌版] Let Me Google That For You https://github.com/yuxizhe/google
 - [原版] Let Me Baidu That For You https://github.com/bangbang93/lmbtfy.cn
+- [百度版] Let Me Baidu That For You https://github.com/mengkunsoft/lmbtfy
 
 ### 更新日志
 -----
