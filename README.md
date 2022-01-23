@@ -1,6 +1,5 @@
 <p align="center">
 <a href="http://tool.mkblog.cn/lmbtfy/" target="_blank">
-<img src="https://raw.githubusercontent.com/2096779623/lmbtfy/master/imga.png" alt="让我帮你DuckDuckGo">
 </a>
 </p>
 
